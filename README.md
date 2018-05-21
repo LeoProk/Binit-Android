@@ -1,0 +1,3 @@
+# Binit-Android
+
+Binit is aimed to be an international illegal garbage/waste plotter and local recycling locator app. It has a simple to use interface and is a clear and concise app, giving information about where rubbish has been illegally dumped, where the recycling facilities are in your town, and information on how to recycle and what goes in what bin. The aim is to make this app internationally available so that users can identify areas where there has been illegal fly-tipping and they can drop a pin (PIN IT) on a map, and make the authorities aware of where it is, so that they can organise a clean-up (BIN IT)
